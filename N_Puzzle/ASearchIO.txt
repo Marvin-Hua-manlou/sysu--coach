@@ -1,0 +1,22 @@
+case 1 searched nodes: 7756
+case 2 searched nodes: 7756
+case 3 searched nodes: 7756
+case 4 searched nodes: 7756
+case 5 searched nodes: 7756
+case 6 searched nodes: 7756
+case 7 searched nodes: 7756
+case 8 searched nodes: 7756
+case 9 searched nodes: 7756
+case 10 searched nodes: 7756
+case 11 searched nodes: 7756
+case 12 searched nodes: 7756
+case 13 searched nodes: 7756
+case 14 searched nodes: 7756
+case 15 searched nodes: 7756
+case 16 searched nodes: 7756
+case 17 searched nodes: 7756
+case 18 searched nodes: 7756
+case 19 searched nodes: 7756
+case 20 searched nodes: 7756
+average search nodes: 7756
+pass cases: 20
